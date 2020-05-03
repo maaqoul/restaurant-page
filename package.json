@@ -1,0 +1,23 @@
+{
+  "name": "restaurant-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maaqoul/restaurant-page.git"
+  },
+  "author": "hicham maaqoul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maaqoul/restaurant-page/issues"
+  },
+  "homepage": "https://github.com/maaqoul/restaurant-page#readme",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
